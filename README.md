@@ -1,2 +1,2 @@
-# LUATELE Lua5.3
+# luatele library latest version supports lua5.3
 
